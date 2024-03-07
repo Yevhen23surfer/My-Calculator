@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharp1/ConsoleApp1/ConsoleApp1.csproj": {}
+    "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/ConsoleApp1/ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharp1/ConsoleApp1/ConsoleApp1.csproj": {
+    "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/ConsoleApp1/ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharp1/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/ConsoleApp1/ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharp1/ConsoleApp1/ConsoleApp1.csproj",
+        "projectPath": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/ConsoleApp1/ConsoleApp1.csproj",
         "packagesPath": "/Users/yevgenskopets/.nuget/packages/",
-        "outputPath": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharp1/ConsoleApp1/obj/",
+        "outputPath": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/ConsoleApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yevgenskopets/.nuget/NuGet/NuGet.Config"
