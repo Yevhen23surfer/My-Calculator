@@ -275,7 +275,9 @@ while (usersNumber < 0 || usersNumber > 10);
 //     x++;
 // }
 
-// // for loop
+// 
+
+/*// for loop
 
 // for ("initial statement"; "contition to evaluate"; "updating function");
 
@@ -283,4 +285,32 @@ for (int i = 1; i <= 50; i++) {
     if (i == 3) continue;
     Console.WriteLine(i);
     if (i >= 10) break;
+}
+*/
+
+// Arrays in c#
+
+// an array of whole numbers
+// int[] scores = new int[5];
+// assign values manually to an array
+// scores[0] = 5;
+// scores[1] = 3;
+// scores[2] = 1;
+// scores[3] = 50;
+// scores[4] = 9;
+
+// declare and assing values to an array on one line:
+int [] scores = {5, 3, 1, 50, 9};
+
+// Console.WriteLine(scores[1]);
+
+for (int index = 0; index <= 4; index++)
+{
+    Console.WriteLine(scores[index]);
+}
+
+// for each loop
+foreach(int element in scores)
+{
+    Console.WriteLine(element);
 }
