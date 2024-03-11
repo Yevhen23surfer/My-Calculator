@@ -138,7 +138,7 @@
 // Console.WriteLine(message);
 
 
-// basic calculator 
+/*// basic calculator 
 
 // new features and how it should work
 // 1. Show thw welcome message
@@ -205,3 +205,74 @@ if (mathOperator == "*")
     result = numb1 * numb2;
     Console.WriteLine($"{numb1} * {numb2} = {result}"); 
 }
+*/
+
+/*
+int num = 5;
+
+switch(num)
+{
+    case >= 5:
+        Console.WriteLine("Number is 5 or more");
+        break;
+    case >= 2:
+        Console.WriteLine("Number is 2 or more");
+        break;
+    default:
+        Console.WriteLine("Nothing");
+        break;
+}
+*/
+
+/*
+bool isItMonday = true;
+
+if (isItMonday)
+{
+    Console.WriteLine("Yes is it monday is true");
+}
+
+int count = 0;
+while (count < 5) {
+    Console.WriteLine("count is " + count);
+    count += 1;
+}
+
+Console.WriteLine("Are we done?");
+*/
+
+/*
+// 1. While loop
+int userNumber = -1;
+
+while (userNumber < 0 || userNumber > 10)
+{
+    Console.WriteLine("Enter a number between 0 and 10");
+    string userResponse = Console.ReadLine();
+    userNumber = Console.ToInt32(userResponse);
+}
+*/
+
+/*
+//2. do-while loop
+
+int usersNumber = -1;
+
+do 
+{
+    Console.WriteLine("Enter a number between 0 and 10");
+    string userResponse = Console.ReadLine();
+    usersNumber = Convert.ToInt32(userResponse);
+}
+while (usersNumber < 0 || usersNumber > 10);
+
+*/
+
+int x = 1;
+
+while (x <= 5) {
+    Console.WriteLine(x);
+    x++;
+}
+
+// for loop
