@@ -268,11 +268,19 @@ while (usersNumber < 0 || usersNumber > 10);
 
 */
 
-int x = 1;
+// int x = 1;
 
-while (x <= 5) {
-    Console.WriteLine(x);
-    x++;
+// while (x <= 5) {
+//     Console.WriteLine(x);
+//     x++;
+// }
+
+// // for loop
+
+// for ("initial statement"; "contition to evaluate"; "updating function");
+
+for (int i = 1; i <= 50; i++) {
+    if (i == 3) continue;
+    Console.WriteLine(i);
+    if (i >= 10) break;
 }
-
-// for loop
